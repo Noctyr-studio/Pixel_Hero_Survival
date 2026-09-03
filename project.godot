@@ -14,7 +14,7 @@ compatibility/default_parent_skeleton_in_mesh_instance_3d=true
 
 [application]
 
-config/name="Pixel Hero Survival"
+config/name="Test of Might"
 run/main_scene="uid://0x1fkar36bkx"
 config/features=PackedStringArray("4.7", "GL Compatibility")
 boot_splash/show_image=false
